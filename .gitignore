@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+*.log
+tmp/
+data/raw/
+data/processed/
+data/tokenized/
+bert-base-uncased/
+cnn_dailymail/
+wmt19-de-en/
+wmt19-en-de/

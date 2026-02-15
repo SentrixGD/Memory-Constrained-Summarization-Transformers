@@ -1,0 +1,10 @@
+# Python version
+python==3.11
+
+# Core libraries used in preprocessing
+pandas==2.3.3
+numpy==1.26.4
+matplotlib==3.10.8
+tqdm==4.67.1
+sentencepiece==0.2.1
+regex==2025.11.3
